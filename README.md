@@ -1,3 +1,3 @@
 # Pandas
 
-Python pandas practices
+Python numpy and pandas practices
