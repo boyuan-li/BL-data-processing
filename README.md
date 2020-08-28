@@ -2,10 +2,12 @@
 
 Data manipulation in Python 
 
-1. numpy - nd arrarys
-2. pandas - dataframes 
-3. vaex - out of core dataframes 
-4. dask - parallelism clusters
+1. [numpy](https://numpy.org/doc/) - nd arrarys
+2. [pandas](https://pandas.pydata.org/docs/) - dataframes 
+3. [vaex](https://docs.vaex.io/en/latest/index.html) - out of core dataframes 
+4. [dask](https://docs.dask.org/en/latest/) - parallelism clusters
+
+Articles: 
 
 [dask vs vaex](https://towardsdatascience.com/dask-vs-vaex-for-big-data-38cb66728747)
 
