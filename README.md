@@ -7,8 +7,6 @@ Data manipulation in Python
 3. vaex - out of core dataframes 
 4. dask - parallelism clusters
 
-![data](https://github.com/boyuan-li/BL-data-manipulation/blob/master/photos/1.png)
-
 [dask vs vaex](https://towardsdatascience.com/dask-vs-vaex-for-big-data-38cb66728747)
 
 [vaex](https://towardsdatascience.com/how-to-process-a-dataframe-with-billions-of-rows-in-seconds-c8212580f447)
@@ -17,3 +15,7 @@ Data manipulation in Python
 
 
 First review: 2020-08-23
+
+![data](https://github.com/boyuan-li/BL-data-manipulation/blob/master/photos/1.png)
+![data](https://github.com/boyuan-li/BL-data-manipulation/blob/master/photos/2.png)
+![data](https://github.com/boyuan-li/BL-data-manipulation/blob/master/photos/3.png)
