@@ -7,7 +7,7 @@ Data manipulation in Python
 3. vaex - out of core dataframes 
 4. dask - parallelism clusters
 
-[data](https://tenor.com/bnhf7.gif)
+![data](https://tenor.com/bnhf7.gif)
 
 [dask vs vaex](https://towardsdatascience.com/dask-vs-vaex-for-big-data-38cb66728747)
 
