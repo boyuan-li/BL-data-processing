@@ -8,6 +8,9 @@ Data manipulation in Python
 4. [dask](https://docs.dask.org/en/latest/) - multi core and distributed parallel execution
 5. [koalas](https://koalas.readthedocs.io/en/latest/) - pandas API on Apache Spark
 6. [darts](https://unit8co.github.io/darts/) - time series manipulation
+7. [faker](https://faker.readthedocs.io/en/stable/) - generate fake data
+8. [missingno](https://github.com/ResidentMario/missingno) - visualize missing data
+
 Articles: 
 
 [dask vs vaex](https://towardsdatascience.com/dask-vs-vaex-for-big-data-38cb66728747)
