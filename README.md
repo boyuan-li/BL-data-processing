@@ -6,6 +6,7 @@ Data manipulation in Python
 2. [pandas](https://pandas.pydata.org/docs/) - dataframes 
 3. [vaex](https://docs.vaex.io/en/latest/index.html) - out of core dataframes 
 4. [dask](https://docs.dask.org/en/latest/) - multi core and distributed parallel execution
+5. [koalas](https://koalas.readthedocs.io/en/latest/) - pandas API on Apache Spark
 
 Articles: 
 
