@@ -10,6 +10,7 @@ Data manipulation in Python
 6. [darts](https://unit8co.github.io/darts/) - time series manipulation
 7. [faker](https://faker.readthedocs.io/en/stable/) - generate fake data
 8. [missingno](https://github.com/ResidentMario/missingno) - visualize missing data
+9. [impyute](https://github.com/eltonlaw/impyute) - missing data imputation
 9. [imbalanced-learn](https://imbalanced-learn.org/stable/) - re-sampling for imbalanced data
 
 Articles: 
