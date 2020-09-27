@@ -11,7 +11,8 @@ Data manipulation in Python
 7. [faker](https://faker.readthedocs.io/en/stable/) - generate fake data
 8. [missingno](https://github.com/ResidentMario/missingno) - visualize missing data
 9. [impyute](https://github.com/eltonlaw/impyute) - missing data imputation
-9. [imbalanced-learn](https://imbalanced-learn.org/stable/) - re-sampling for imbalanced data
+10. [imbalanced-learn](https://imbalanced-learn.org/stable/) - re-sampling for imbalanced data
+11. [flanker](https://github.com/mailgun/flanker) - email address dara parser
 
 Articles: 
 
