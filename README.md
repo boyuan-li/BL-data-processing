@@ -12,7 +12,7 @@ Data manipulation in Python
 8. [missingno](https://github.com/ResidentMario/missingno) - visualize missing data
 9. [impyute](https://github.com/eltonlaw/impyute) - missing data imputation
 10. [imbalanced-learn](https://imbalanced-learn.org/stable/) - re-sampling for imbalanced data
-11. [flanker](https://github.com/mailgun/flanker) - email address dara parser
+11. [flanker](https://github.com/mailgun/flanker) - email address data parser
 
 Articles: 
 
