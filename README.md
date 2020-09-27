@@ -15,6 +15,7 @@ Data manipulation in Python
 11. [flanker](https://github.com/mailgun/flanker) - email address data parser
 12. [email-validator](https://github.com/JoshData/python-email-validator) - validate email addresses
 13. [sendgrid](https://sendgrid.com/solutions/email-api/email-address-validation-api/) - sendgrid email validator API
+14. [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - profile reports from a pandas DataFrame
 
 Articles: 
 
