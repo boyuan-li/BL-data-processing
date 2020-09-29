@@ -28,7 +28,6 @@ Articles:
 [dask](https://towardsdatascience.com/are-you-still-using-pandas-for-big-data-12788018ba1a)
 
 
-First review: 2020-08-23
 
 ![data](https://github.com/boyuan-li/BL-data-manipulation/blob/master/photos/1.png)
 ![data](https://github.com/boyuan-li/BL-data-manipulation/blob/master/photos/2.png)
