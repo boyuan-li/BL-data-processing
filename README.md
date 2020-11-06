@@ -19,7 +19,6 @@ Data manipulation in Python
 - [geopandas](https://github.com/geopandas/geopandas) - pandas for geographic data
 - [geopy](https://github.com/geopy/geopy) - geocoding data
 
-
 Articles: 
 
 [dask vs vaex](https://towardsdatascience.com/dask-vs-vaex-for-big-data-38cb66728747)
