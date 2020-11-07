@@ -20,7 +20,6 @@ Data manipulation in Python
 - [geopy](https://github.com/geopy/geopy) - geocoding data
 
 Articles: 
-
 [dask vs vaex](https://towardsdatascience.com/dask-vs-vaex-for-big-data-38cb66728747)
 
 [vaex](https://towardsdatascience.com/how-to-process-a-dataframe-with-billions-of-rows-in-seconds-c8212580f447)
