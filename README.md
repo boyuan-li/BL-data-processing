@@ -18,6 +18,7 @@ Data manipulation in Python
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - profile reports from a pandas DataFrame
 - [geopandas](https://github.com/geopandas/geopandas) - pandas for geographic data
 - [geopy](https://github.com/geopy/geopy) - geocoding data
+- [thefuzz](https://github.com/seatgeek/thefuzz) - fuzzywuzzy, fuzzy string matching
 
 ![data](https://github.com/boyuan-li/BL-data-manipulation/blob/master/photos/1.png)
 ![data](https://github.com/boyuan-li/BL-data-manipulation/blob/master/photos/2.png)
