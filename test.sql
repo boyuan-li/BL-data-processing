@@ -1,2 +1,0 @@
---Test
-SELECT * FROM data
