@@ -1,5 +1,7 @@
 # Data manipulation
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/boyuan-li/BL-data-manipulation/HEAD)
+
 Data manipulation in Python 
 
 - [numpy](https://numpy.org/doc/) - nd arrarys
