@@ -9,7 +9,6 @@ Data manipulation in Python
 - [vaex](https://docs.vaex.io/en/latest/index.html) - out of core dataframes 
 - [dask](https://docs.dask.org/en/latest/) - multi core and distributed parallel execution
 - [koalas](https://koalas.readthedocs.io/en/latest/) - pandas API on Apache Spark
-- [darts](https://unit8co.github.io/darts/) - time series manipulation
 - [faker](https://faker.readthedocs.io/en/stable/) - generate fake data
 - [missingno](https://github.com/ResidentMario/missingno) - visualize missing data
 - [impyute](https://github.com/eltonlaw/impyute) - missing data imputation
