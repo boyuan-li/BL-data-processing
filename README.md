@@ -14,8 +14,6 @@ Data manipulation in Python
 - [impyute](https://github.com/eltonlaw/impyute) - missing data imputation
 - [imbalanced-learn](https://imbalanced-learn.org/stable/) - re-sampling for imbalanced data
 - [flanker](https://github.com/mailgun/flanker) - email address data parser
-- [email-validator](https://github.com/JoshData/python-email-validator) - validate email addresses
-- [sendgrid](https://sendgrid.com/solutions/email-api/email-address-validation-api/) - sendgrid email validator API
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - profile reports from a pandas DataFrame
 - [thefuzz](https://github.com/seatgeek/thefuzz) - fuzzywuzzy, fuzzy string matching
 
