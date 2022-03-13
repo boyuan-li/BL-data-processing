@@ -1,8 +1,8 @@
-# Data manipulation
+# Data processing
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/boyuan-li/BL-data-manipulation/HEAD)
 
-Data manipulation in Python 
+Data processing in Python 
 
 - [numpy](https://numpy.org/doc/) - nd arrarys
 - [pandas](https://pandas.pydata.org/docs/) - dataframes 
@@ -17,6 +17,6 @@ Data manipulation in Python
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - profile reports from a pandas DataFrame
 - [thefuzz](https://github.com/seatgeek/thefuzz) - fuzzywuzzy, fuzzy string matching
 
-![data](https://github.com/boyuan-li/BL-data-manipulation/blob/master/photos/1.png)
-![data](https://github.com/boyuan-li/BL-data-manipulation/blob/master/photos/2.png)
-![data](https://github.com/boyuan-li/BL-data-manipulation/blob/master/photos/3.png)
+![data](https://github.com/boyuan-li/BL-data-processing/blob/master/photos/1.png)
+![data](https://github.com/boyuan-li/BL-data-processing/blob/master/photos/2.png)
+![data](https://github.com/boyuan-li/BL-data-processing/blob/master/photos/3.png)
