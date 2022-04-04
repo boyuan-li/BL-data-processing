@@ -17,6 +17,7 @@ Data processing in Python
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - profile reports from a pandas DataFrame
 - [thefuzz](https://github.com/seatgeek/thefuzz) - fuzzywuzzy, fuzzy string matching
 - [pandera](https://github.com/pandera-dev/pandera) - Data testing and validation
+- [great expectations](https://github.com/great-expectations/great_expectations) - Data validation 
 
 ![data](https://github.com/boyuan-li/BL-data-processing/blob/master/photos/1.png)
 ![data](https://github.com/boyuan-li/BL-data-processing/blob/master/photos/2.png)
