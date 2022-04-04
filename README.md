@@ -18,6 +18,6 @@ Data processing in Python
 - [thefuzz](https://github.com/seatgeek/thefuzz) - fuzzywuzzy, fuzzy string matching
 - [pandera](https://github.com/pandera-dev/pandera) - Data testing and validation
 
-![data](https://github.com/boyuan-li/BL-data-processing/blob/master/photos/1.png =100x20)
+![data](https://github.com/boyuan-li/BL-data-processing/blob/master/photos/1.png)
 ![data](https://github.com/boyuan-li/BL-data-processing/blob/master/photos/2.png)
 ![data](https://github.com/boyuan-li/BL-data-processing/blob/master/photos/3.png)
