@@ -18,6 +18,7 @@ Data processing in Python
 - [thefuzz](https://github.com/seatgeek/thefuzz) - fuzzywuzzy, fuzzy string matching
 - [pandera](https://github.com/pandera-dev/pandera) - Data testing and validation
 - [great expectations](https://github.com/great-expectations/great_expectations) - Data validation 
+- [Ray](https://github.com/ray-project/ray) - Scale
 
 ![data](https://github.com/boyuan-li/BL-data-processing/blob/master/photos/1.png)
 ![data](https://github.com/boyuan-li/BL-data-processing/blob/master/photos/2.png)
