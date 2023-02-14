@@ -19,6 +19,7 @@ Data processing in Python
 - [pandera](https://github.com/pandera-dev/pandera) - Data testing and validation
 - [great expectations](https://github.com/great-expectations/great_expectations) - Data validation 
 - [Ray](https://github.com/ray-project/ray) - Scale
+- [pandas-gbq](https://pandas-gbq.readthedocs.io/en/latest/writing.html#writing-to-an-existing-table) - Pandas Google Cloud
 
 ![data](https://github.com/boyuan-li/BL-data-processing/blob/master/photos/1.png)
 ![data](https://github.com/boyuan-li/BL-data-processing/blob/master/photos/2.png)
