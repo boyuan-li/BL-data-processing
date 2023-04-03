@@ -20,6 +20,7 @@ Data processing in Python
 - [great expectations](https://github.com/great-expectations/great_expectations) - Data validation 
 - [Ray](https://github.com/ray-project/ray) - Scale
 - [pandas-gbq](https://pandas-gbq.readthedocs.io/en/latest/writing.html#writing-to-an-existing-table) - Pandas Google Cloud
+- [polars](https://github.com/pola-rs/polars) - Blazingly fast DataFrames
 
 ![data](https://github.com/boyuan-li/BL-data-processing/blob/master/photos/1.png)
 ![data](https://github.com/boyuan-li/BL-data-processing/blob/master/photos/2.png)
