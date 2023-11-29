@@ -21,6 +21,7 @@ Data processing in Python
 - [Ray](https://github.com/ray-project/ray) - Scale
 - [pandas-gbq](https://pandas-gbq.readthedocs.io/en/latest/writing.html#writing-to-an-existing-table) - Pandas Google Cloud
 - [polars](https://github.com/pola-rs/polars) - Blazingly fast DataFrames
+- [kalman-and-bayesian-filters](https://github.com/boyuan-li/Kalman-and-Bayesian-Filters-in-Python)
 
 ![data](https://github.com/boyuan-li/BL-data-processing/blob/master/photos/1.png)
 ![data](https://github.com/boyuan-li/BL-data-processing/blob/master/photos/2.png)
